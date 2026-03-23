@@ -15,7 +15,7 @@ http://192.168.0.10:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD - 2
 http://192.168.0.10:6878/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209b99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD - 3
-http://192.168.0.10:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://192.168.0.10:6878/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD"  
 http://192.168.0.10:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" 
