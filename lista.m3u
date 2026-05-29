@@ -3,51 +3,51 @@
 #FUTBOL
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
-http://192.168.0.10:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+http://192.168.0.7:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
-http://192.168.0.10:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://192.168.0.7:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
-http://192.168.0.10:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+http://192.168.0.7:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD
-http://192.168.0.10:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+http://192.168.0.7:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 
-http://192.168.0.10:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6
+http://192.168.0.7:6878/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD
-http://192.168.0.10:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
+http://192.168.0.7:6878/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD
-http://192.168.0.10:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
+http://192.168.0.7:6878/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD
-http://192.168.0.10:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
+http://192.168.0.7:6878/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9f74
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 FHD
-http://192.168.0.10:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
+http://192.168.0.7:6878/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%202.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 FHD
-http://192.168.0.10:6878/ace/getstream?id=caa631e8850e3eb5e7c039063dd8a339ccef1176
+http://192.168.0.7:6878/ace/getstream?id=caa631e8850e3eb5e7c039063dd8a339ccef1176
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD
-http://192.168.0.10:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+http://192.168.0.7:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD
-http://192.168.0.10:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
+http://192.168.0.7:6878/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD 
-http://192.168.0.10:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
+http://192.168.0.7:6878/ace/getstream?id=91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD 
-http://192.168.0.10:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+http://192.168.0.7:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="CHAMPIONS", M+ Liga de Campeones 2 HD 
-http://192.168.0.10:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+http://192.168.0.7:6878/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="CHAMPIONS", M+ Liga de Campeones 2 HD 
-http://192.168.0.10:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
+http://192.168.0.7:6878/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
-http://192.168.0.10:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
+http://192.168.0.7:6878/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
-http://192.168.0.10:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+http://192.168.0.7:6878/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
-http://192.168.0.10:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
+http://192.168.0.7:6878/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN MOTOGP" group-title="MOTOGP", DAZN MOTOGP
-http://192.168.0.10:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
+http://192.168.0.7:6878/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN MOTOGP" group-title="MOTOGP", DAZN MOTOGP
-http://192.168.0.10:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
+http://192.168.0.7:6878/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN MOTOGP" group-title="MOTOGP", DAZN MOTOGP
-http://192.168.0.10:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
+http://192.168.0.7:6878/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15cea
