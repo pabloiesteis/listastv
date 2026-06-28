@@ -8,6 +8,8 @@ http://192.168.1.10:6878/ace/getstream?id=b2bf586e7ddc31352f120c9274c1441dea3f54
 http://192.168.1.10:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
 http://192.168.1.10:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
+http://192.168.1.10:6878/ace/getstream?id=79c9dbec46dfa7de3acea6e5e05118e17dc0f065
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
 http://192.168.1.10:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
