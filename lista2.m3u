@@ -2,23 +2,15 @@
 
 #FUTBOL
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
-http://192.168.1.10:6878/ace/getstream?id=b2bf586e7ddc31352f120c9274c1441dea3f5418
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
-http://192.168.1.10:6878/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
-http://192.168.1.10:6878/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20Mundial.png" tvg-id="DAZN Mundial HD" group-title="MUNDIAL", DAZN Mundial HD
-http://192.168.1.10:6878/ace/getstream?id=79c9dbec46dfa7de3acea6e5e05118e17dc0f065
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
-http://192.168.1.10:6878/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
+http://192.168.1.10:6878/ace/getstream?id=9c588ac92554746c489bc553773d959f6d2dfd8e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
-http://192.168.1.10:6878/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+http://192.168.1.10:6878/ace/getstream?id=7f9857c45764ef2c7cdfb619b89db3056a57a51f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD 
 http://192.168.1.10:6878/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga HD
 http://192.168.1.10:6878/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 
 http://192.168.1.10:6878/ace/getstream?id=3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD
@@ -27,6 +19,7 @@ http://192.168.1.10:6878/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829
 http://192.168.1.10:6878/ace/getstream?id=5ad75216a63a31fef23ddc3532edc66c2fc0936c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD
 http://192.168.1.10:6878/ace/getstream?id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD
 http://192.168.1.10:6878/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="CHAMPIONS", M+ Liga de Campeones HD
